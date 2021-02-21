@@ -1,4 +1,4 @@
-# School-Management-System
+# School-Management-System for eVidyaloka by Devang Sharma
 
 ## About Project
 This is a Java based web application that helps to manage several comman activites in a school
