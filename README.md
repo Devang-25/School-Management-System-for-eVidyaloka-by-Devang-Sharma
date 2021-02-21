@@ -56,15 +56,15 @@ Instagram : https://www.instagram.com/idevangsharma/ <br>
 
 
 ## Architecture Diagram
-![Architecture] (https://github.com/Devang-25/School-Management-System-for-eVidyaloka-by-Devang-Sharma/blob/main/Architecture_Diagram.png)
+![Architecture](https://github.com/Devang-25/School-Management-System-for-eVidyaloka-by-Devang-Sharma/blob/main/Architecture_Diagram.png)
 <br>
 
 ## Entity Diagram
-![alt text](https://github.com/wpmeal/School-Management-System/blob/master/School_Entities_Diagram.png)
+![alt text](https://github.com/Devang-25/School-Management-System-for-eVidyaloka-by-Devang-Sharma/blob/main/School_Entities_Diagram.png)
 <br>
 
 ## Product Vision
-![Product] (https://github.com/Devang-25/School-Management-System-for-eVidyaloka-by-Devang-Sharma/blob/main/Product_Vision.png)
+![Product](https://github.com/Devang-25/School-Management-System-for-eVidyaloka-by-Devang-Sharma/blob/main/Product_Vision.png)
 <br>
 
 # All Copyrights Reserved by the Author
